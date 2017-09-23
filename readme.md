@@ -1,0 +1,1 @@
+A JavaScript basic calculator. Nothing fancey just stright calculator.
