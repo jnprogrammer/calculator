@@ -23,3 +23,11 @@ function Multiplication(num1 , num2)
     return num1 * num2;
 }
 
+function calculate(num1, num2)
+{
+
+}
+
+function calculatorBox() {
+  //  document.getElementById('inputBox').value=''
+} 
