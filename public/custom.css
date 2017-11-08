@@ -31,12 +31,13 @@ a{
   margin-right: auto;
   margin-left: auto;
   margin-top:20px;
+  margin-bottom: 20px;
   padding-top: 20px;
 }
 
 #calc{
   background-color:blue;
-  width:250px;
+  width:255px;
   padding-top:20px;
   padding-bottom: 30px;
   margin-right: auto;
